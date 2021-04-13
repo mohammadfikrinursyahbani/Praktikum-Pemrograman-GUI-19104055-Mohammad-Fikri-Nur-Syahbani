@@ -4,13 +4,17 @@
 ## Langkah 1
 Isi tanda centang yang ada pada 2 kolom lalu klik Install Now
 ![enter image description here](https://i.ibb.co/rmt6YWW/11.png)
+
 ## Langkah 2
 Tunggu Installasi selesai
 ![enter image description here](https://i.ibb.co/W2yDnKv/22.png)
+
 ## Menggunakan Python Shell
 Pada python anda dapat menjalankan instruksi langsung melalui Python IDLE.
 Berikut adalah contoh baris intruksi yang langsung dituliskan pada IDLE
+
 ![enter image description here](https://i.ibb.co/GFSRHGM/6.png)
+
 ## Variabel dan Objek
 Dibawah ini variable x awalnya berisi tipe data integer (int). Dimana
 selanjutnya variable tersebut digunakan untuk menampung nilai dari tipe data lain
