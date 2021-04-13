@@ -62,6 +62,6 @@ sebagai sampah karena objek tersebut tidak ditunjuk oleh variable apapun.
 
    Hasil Outputnya
    
-![enter image description here]("https://i.ibb.co/KxTqKFn/13.png")
+
 
 4. Simpan file tersebut dengan nama hello.py
