@@ -57,11 +57,7 @@ sebagai sampah karena objek tersebut tidak ditunjuk oleh variable apapun.
 1. Buat direktori tempat penyimpanan anda
 2. Jalankan program teks editor Pycharm
 3. Tuliskan kode sebagai berikut
-
-![enter image description here]("https://i.ibb.co/TTxj4yt/12.png")
-
-   Hasil Outputnya
-   
-
-
 4. Simpan file tersebut dengan nama hello.py
+
+![enter image description here](https://i.ibb.co/Zc7cmh2/15.png)
+
