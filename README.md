@@ -58,10 +58,10 @@ sebagai sampah karena objek tersebut tidak ditunjuk oleh variable apapun.
 2. Jalankan program teks editor Pycharm
 3. Tuliskan kode sebagai berikut
 
-![enter image description here](img src="https://i.ibb.co/TTxj4yt/12.png)
+![enter image description here]("https://i.ibb.co/TTxj4yt/12.png")
 
    Hasil Outputnya
    
-![enter image description here](img src="https://i.ibb.co/KxTqKFn/13.png)
+![enter image description here]("https://i.ibb.co/KxTqKFn/13.png")
 
 4. Simpan file tersebut dengan nama hello.py
