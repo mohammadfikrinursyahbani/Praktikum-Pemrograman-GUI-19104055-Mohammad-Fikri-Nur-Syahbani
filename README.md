@@ -7,6 +7,7 @@ Isi tanda centang yang ada pada 2 kolom lalu klik Install Now
 
 ## Langkah 2
 Tunggu Installasi selesai
+
 ![enter image description here](https://i.ibb.co/W2yDnKv/22.png)
 
 ## Menggunakan Python Shell
@@ -49,5 +50,3 @@ sebagai sampah karena objek tersebut tidak ditunjuk oleh variable apapun.
    Hasil Outputnya
 ![enter image description here](img src="https://i.ibb.co/KxTqKFn/13.png)
 4. Simpan file tersebut dengan nama hello.py
-
-
