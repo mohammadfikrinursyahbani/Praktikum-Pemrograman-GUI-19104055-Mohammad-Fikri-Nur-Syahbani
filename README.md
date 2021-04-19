@@ -62,14 +62,14 @@ sebagai sampah karena objek tersebut tidak ditunjuk oleh variable apapun.
 
 ![enter image description here](https://i.ibb.co/Zc7cmh2/15.png)
 
-##Python Bersifat Case Sensitive
+## Python Bersifat Case Sensitive
 Penulisan kode program pada pythonbersifat case sensitive. Dengan demikian misal
 variable Posisi akan berbeda dengan variable posisi. Coba eksekusilan program
 berikut
 
 ![enter image description here](https://i.ibb.co/B2ZLW2g/16.png)
 
-##Perintah Program (Statement)
+## Perintah Program (Statement)
 
 Pada python stiap kode program yang dituliskan tidak harus diakhiri dengan sebuah
 statement (biasanya tanda titik koma) seperti pada Java dan C. Titik koma pada python
