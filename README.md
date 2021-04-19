@@ -117,7 +117,7 @@ baru, hal ini terlihat dari id nya.
 Untuk tipe bilangan riil, python menyediakan tipe float, decimal.Decimal dan
 complex. Type bilangan float menggunakan titik untuk tanda desimalnya.
 
-![enter image description here]("https://i.ibb.co/7tDSNJz/24.png)
+![enter image description here](https://i.ibb.co/7tDSNJz/24.png)
 
 Sedangkan untuk tipe decimal hampir sama dengan tipe data float, akan ntetapi tipe
 decimal digunakn untuk melakukan perhitungan dengan nilai koma yang lebih
