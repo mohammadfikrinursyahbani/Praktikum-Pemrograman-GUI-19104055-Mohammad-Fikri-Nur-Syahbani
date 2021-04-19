@@ -84,3 +84,12 @@ Dimana setiap baris harus dihubungkan dengan tanda backslash (\). Coba tuliskan
 program berikut pada computer.
 
 ![enter image description here](https://i.ibb.co/8MM3pyV/18.png)
+
+Tetapi tanda backslah tidak diperlukan jika kita menulis perintah kode dalam bentuk
+array atau kode yang terdapat diantara tanda (…), […] atau {…}. Tuliskan kode berikut
+pada computer.
+
+![enter image description here]
+
+## Tipe Numerik
+# Bilangan Bulat
