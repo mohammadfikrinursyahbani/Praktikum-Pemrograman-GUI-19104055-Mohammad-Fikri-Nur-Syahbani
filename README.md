@@ -74,6 +74,13 @@ berikut
 Pada python stiap kode program yang dituliskan tidak harus diakhiri dengan sebuah
 statement (biasanya tanda titik koma) seperti pada Java dan C. Titik koma pada python
 hanya diberikan pada saat ada dua atau lebih statement pada satu baris yang sama.
-Tuliskan kode berikut pada computer anda.
+Tuliskan kode berikut pada computer.
 
 ![enter image description here](https://i.ibb.co/1dLv0qc/17.png)
+
+Secara umum perintah program ditulis dalam satu baris kode, tetapi jika perintah yang
+dituliskan panjang maka anda dapat memecah perintah tersebut menjadi beberapa baris.
+Dimana setiap baris harus dihubungkan dengan tanda backslash (\). Coba tuliskan
+program berikut pada computer.
+
+![enter image description here](https://i.ibb.co/8MM3pyV/18.png)
