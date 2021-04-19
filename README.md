@@ -54,6 +54,7 @@ dipindahkan dari objek ‘9’ ke objek ‘True’. Dengan demikian objek lama (
 sebagai sampah karena objek tersebut tidak ditunjuk oleh variable apapun.
 
 ## Membuat Kode Program
+
 1. Buat direktori tempat penyimpanan anda
 2. Jalankan program teks editor Pycharm
 3. Tuliskan kode sebagai berikut
@@ -69,6 +70,7 @@ berikut
 ![enter image description here](https://i.ibb.co/B2ZLW2g/16.png)
 
 ##Perintah Program (Statement)
+
 Pada python stiap kode program yang dituliskan tidak harus diakhiri dengan sebuah
 statement (biasanya tanda titik koma) seperti pada Java dan C. Titik koma pada python
 hanya diberikan pada saat ada dua atau lebih statement pada satu baris yang sama.
