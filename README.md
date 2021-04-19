@@ -92,4 +92,4 @@ pada computer.
 ![enter image description here]
 
 ## Tipe Numerik
-# Bilangan Bulat
+### Bilangan Bulat
