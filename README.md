@@ -187,16 +187,16 @@ Objek list dibuat dengan menggunakan tanda [], setiap objek yang berada di dlamn
 dipisahkan dengan menggunakan koma dan dapat terdiri dari berbagai macam tipe
 data.
 
-![enter image description here](https://i.ibb.co/WxSyyjz/33.png)
+![enter image description here](https://i.ibb.co/gJRMTmV/33.png)
 
 Model dan cara akses list dapat digabungkan dengan fungsi perulangan dasar seperti
 for, while dan lain sebagainya.
 
-![enter image description here](
+![enter image description here](https://i.ibb.co/x8Ht1zd/34.png)
 
 Untuk menghapus atau merubah elemen pada list anda dapat menggunakan perintah
 del[‘indeks_list’] sedangkan untuk merubah dapat menggunakan perintah
 namaList[‘indeks’] = value baru. Untuk menambahkan elemen pada list anda dapat
 menggunakan perintah extend([list])’.
 
-![enter image description here](https://i.ibb.co/P17Q0Yc/34.png)
+![enter image description here](https://i.ibb.co/tMXTWrd/35.png)
