@@ -112,3 +112,91 @@ baru, hal ini terlihat dari id nya.
 
 ![enter image description here](https://i.ibb.co/jH2rvp1/23.png)
 
+### Bilangan Riil
+
+Untuk tipe bilangan riil, python menyediakan tipe float, decimal.Decimal dan
+complex. Type bilangan float menggunakan titik untuk tanda desimalnya.
+
+![enter image description here](img src="https://i.ibb.co/7tDSNJz/24.png)
+
+Sedangkan untuk tipe decimal hampir sama dengan tipe data float, akan ntetapi tipe
+decimal digunakn untuk melakukan perhitungan dengan nilai koma yang lebih
+presisi.
+
+## Tipe String
+
+Tipe data string dalam python direpresentasikan dengan tipe str. Objek string dapat
+dibuat dengan tiga cara yaitu:
+• Menggunakan tanda pertik tunggal
+• Menggunakan tanda petik ganda
+• Menggunakan tanda petik tunggal ataupun ganda yang direpetisi sebanyak tiga kali
+
+![enter image description here](img src="https://i.ibb.co/Bq3C10n/25.png)
+
+Objek dalam string tidak dapat dirubah, tiap karakter di dalam string dapat diakses
+dengan tanda [] diikuti nomor array-nya. Berdasarkan variable yang telah anda buat
+sebelumnya buatlah kode program berikut, apa hasilnya?, lakukan dengan variable yang
+lainnya
+
+![enter image description here](https://i.ibb.co/GkCPJ7j/26.png)
+
+dalam string kita dapat memberikan kareakter khusus antara lain \n untuk memberikan
+enter, \’ untuk membnerikan petik tunggal, \t untuk memberikan tab. Pada dasarnya 
+karakter khusus dalam phyton harus diawali dengan backslash (\) diikuti dengan
+karakter khususnya.
+
+![enter image description here](https://i.ibb.co/DkGnWbp/27.png)
+
+Python juga dapat menggabungkan dua objek string menjadi satu dengan operator +.
+Dengan kode yang telah di tuliskan sebelumnya gabungkan dengan string berikut dan
+lihat hasilnya
+
+![enter image description here](https://i.ibb.co/fM8j6Jz/28.png)
+
+### Membandingkan String
+Untuk membandingkan kesamaan string python menggunakan operator ==.
+Sedangkan untuk membandingkan id objek string menggunakan is. Selain kedua
+operator tersebut, python juga dapat menggunakan operator lainnya untuk
+membandingkan tipe data string. Tuliskan kode program berikut dan gumakan
+operator >, <=, >=, apa yang dihasilkan?
+
+![enter image description here](https://i.ibb.co/r5PJKZf/29.png)
+
+### Mengekstrak Substring
+Substring di dalam string dapat diekstrak dengan menggunakan operator slice (:)
+dengan menyertakan indeks awal dan akhir sebagai penanda. Tuliskan kode program
+dibawah ini.
+
+![enter image description here](https://i.ibb.co/phhF1Jr/30.png)
+
+Kode tersebut mengambil substring dari variable s mulai dari indeks ke 0 sampai
+indeks ke 11. Jika kita tidak menyertakan indeks maka string yang akan diekstrak
+adalah sepanjang string tersebut / string sisanya. Tuliskan kode program berikut.
+
+![enter image description here](https://i.ibb.co/DRyyH8R/31.png)
+
+### Membuat String Dengan Format Tertentu
+Phyton pada dasarnya juga dapat memnggabungkan tipoe data atau format lain ke
+dalam string yang telah dibuat. Antara lain dengan menggunakan $d, %f, %s dan lain
+sebagainya. Tuliskan kode program berikut.
+
+![enter image description here](img src="https://i.ibb.co/QNF66hZ/32.png)
+
+## Tipe Koleksi
+Objek list dibuat dengan menggunakan tanda [], setiap objek yang berada di dlamnya
+dipisahkan dengan menggunakan koma dan dapat terdiri dari berbagai macam tipe
+data.
+
+![enter image description here](https://i.ibb.co/WxSyyjz/33.png)
+
+Model dan cara akses list dapat digabungkan dengan fungsi perulangan dasar seperti
+for, while dan lain sebagainya.
+
+![enter image description here](
+
+Untuk menghapus atau merubah elemen pada list anda dapat menggunakan perintah
+del[‘indeks_list’] sedangkan untuk merubah dapat menggunakan perintah
+namaList[‘indeks’] = value baru. Untuk menambahkan elemen pada list anda dapat
+menggunakan perintah extend([list])’.
+
+![enter image description here](https://i.ibb.co/P17Q0Yc/34.png)
