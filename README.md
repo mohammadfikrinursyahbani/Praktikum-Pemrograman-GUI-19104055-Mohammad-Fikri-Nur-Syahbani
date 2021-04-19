@@ -131,7 +131,7 @@ dibuat dengan tiga cara yaitu:
 • Menggunakan tanda petik ganda
 • Menggunakan tanda petik tunggal ataupun ganda yang direpetisi sebanyak tiga kali
 
-![enter image description here]("https://i.ibb.co/Bq3C10n/25.png)
+![enter image description here](https://i.ibb.co/Bq3C10n/25.png)
 
 Objek dalam string tidak dapat dirubah, tiap karakter di dalam string dapat diakses
 dengan tanda [] diikuti nomor array-nya. Berdasarkan variable yang telah anda buat
