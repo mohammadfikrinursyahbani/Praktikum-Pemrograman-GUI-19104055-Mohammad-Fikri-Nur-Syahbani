@@ -89,7 +89,26 @@ Tetapi tanda backslah tidak diperlukan jika kita menulis perintah kode dalam ben
 array atau kode yang terdapat diantara tanda (…), […] atau {…}. Tuliskan kode berikut
 pada computer.
 
-![enter image description here]
+![enter image description here](https://i.ibb.co/NprT7W1/19.png)
 
 ## Tipe Numerik
 ### Bilangan Bulat
+
+Dalam python terapat dua tipe bilangan bulat yaitu int dan bool. Selain tipe integral
+primitive python juga dapat menggunakan bilangan integral dengan basis decimal
+(10), biner (2), octal (8) maupun heksadesimal (16). Tuliskan kode program berikut
+pada computer.
+
+![enter image description here](https://i.ibb.co/tCn1XRc/20.png)
+
+Tipe bilangan bulat yang kedua adalah tipe Boolean, dimana seperti yang telah kita
+ketahui tipe data boleean bernilai true atau false saja. Tuliskan kode program berikut
+pada computer.
+
+![enter image description here](https://i.ibb.co/d7ttZHK/21.png)
+
+Proses perhitungan dan penambahan bilangan pada python akan menghasilkan objek
+baru, hal ini terlihat dari id nya.
+
+![enter image description here](https://i.ibb.co/jH2rvp1/23.png)
+
