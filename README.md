@@ -180,7 +180,7 @@ Phyton pada dasarnya juga dapat memnggabungkan tipoe data atau format lain ke
 dalam string yang telah dibuat. Antara lain dengan menggunakan $d, %f, %s dan lain
 sebagainya. Tuliskan kode program berikut.
 
-![enter image description here](img src="https://i.ibb.co/QNF66hZ/32.png)
+![enter image description here](https://i.ibb.co/QNF66hZ/32.png)
 
 ## Tipe Koleksi
 Objek list dibuat dengan menggunakan tanda [], setiap objek yang berada di dlamnya
