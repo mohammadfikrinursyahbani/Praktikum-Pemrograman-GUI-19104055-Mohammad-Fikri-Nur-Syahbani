@@ -117,7 +117,7 @@ baru, hal ini terlihat dari id nya.
 Untuk tipe bilangan riil, python menyediakan tipe float, decimal.Decimal dan
 complex. Type bilangan float menggunakan titik untuk tanda desimalnya.
 
-![enter image description here](img src="https://i.ibb.co/7tDSNJz/24.png)
+![enter image description here]("https://i.ibb.co/7tDSNJz/24.png)
 
 Sedangkan untuk tipe decimal hampir sama dengan tipe data float, akan ntetapi tipe
 decimal digunakn untuk melakukan perhitungan dengan nilai koma yang lebih
@@ -131,7 +131,7 @@ dibuat dengan tiga cara yaitu:
 • Menggunakan tanda petik ganda
 • Menggunakan tanda petik tunggal ataupun ganda yang direpetisi sebanyak tiga kali
 
-![enter image description here](img src="https://i.ibb.co/Bq3C10n/25.png)
+![enter image description here]("https://i.ibb.co/Bq3C10n/25.png)
 
 Objek dalam string tidak dapat dirubah, tiap karakter di dalam string dapat diakses
 dengan tanda [] diikuti nomor array-nya. Berdasarkan variable yang telah anda buat
