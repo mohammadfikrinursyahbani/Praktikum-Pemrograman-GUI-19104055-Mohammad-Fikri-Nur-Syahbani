@@ -7,7 +7,7 @@
 ![enter image description here](https://i.ibb.co/xFT7fh8/GUII.jpg)
 
 ## Clear Data
-![enter image description here](https://i.ibb.co/F8sP4tS/2.png)
+![enter image description here](https://i.ibb.co/4KG6mGw/GGGG.jpg)
 
 
 
