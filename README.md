@@ -12,10 +12,10 @@
 
 
 ##  Edit Data
-![enter image description here](https://i.ibb.co/Dk9YhSc/3.png)
+![enter image description here](https://i.ibb.co/SPfFFMH/444.jpg)
 
 
 ## 2.
-![enter image description here](https://i.ibb.co/k2RZ4F5/4.png)
+![enter image description here](https://i.ibb.co/RhvvHLs/2222.jpg)
 
 Pada Codingan tersebut terdapat kesalahan indentasi pada line 24, perlu dihapus untuk indentasi pada line 24 agar bisa berjalan dengan baik
