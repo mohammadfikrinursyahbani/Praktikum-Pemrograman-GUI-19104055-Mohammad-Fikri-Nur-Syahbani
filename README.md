@@ -1,4 +1,4 @@
-# UTS GUI_19104056_Rahmat Dian Rifa'i
+# UTS GUI_19104055_Mohammad Fikri Nur Syahbani
 
 ## 1.
 
